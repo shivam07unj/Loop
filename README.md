@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Hackathon](https://img.shields.io/badge/LOOP%201.0-BVCOE%20Navi%20Mumbai-orange)](https://unstop.com)
-[![Team](https://img.shields.io/badge/Team-The%20Sopranos-purple)](https://github.com)
+[![Team](https://img.shields.io/badge/Team-Hack%20Mavericks-purple)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-In%20Development-green)]()
 
 ---
@@ -132,7 +132,7 @@ npm run dev
 
 ---
 
-## 🎭 Team — The Sopranos
+## 🎭 Team — Hack Mavericks
 
 | Name | Role |
 |---|---|
@@ -162,4 +162,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built with ❤️ by <strong>The Sopranos</strong> for LOOP 1.0</p>
+<p align="center">Built with ❤️ by <strong>Hack Mavericks</strong> for LOOP 1.0</p>
